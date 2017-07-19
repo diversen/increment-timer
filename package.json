@@ -1,0 +1,25 @@
+{
+  "name": "increment-timer",
+  "version": "1.0.0",
+  "description": "Auto increment and decrement numbers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/increment-timer.git"
+  },
+  "keywords": [
+    "auto-increment",
+    "auto-decrement",
+    "increment",
+    "amplitude"
+  ],
+  "author": "dennis iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/increment-timer/issues"
+  },
+  "homepage": "https://github.com/diversen/increment-timer#readme"
+}
