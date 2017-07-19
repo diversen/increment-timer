@@ -14,6 +14,10 @@ See [index.js](index.js)
 
 See [test.js](test.js)
 
+Or this example: 
+
+https://codepen.io/diversen/pen/gRNoPj
+
 ## License
 
 MIT © [Dennis Iversen](https://github.com/diversen)
